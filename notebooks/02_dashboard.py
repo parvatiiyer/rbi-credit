@@ -76,8 +76,8 @@ BASE_LAYOUT = dict(
 
 @st.cache_data
 def load():
-    m  = pd.read_csv("../data/processed/credit_dependency_master.csv")
-    dg = pd.read_csv("../data/raw/digital_credit.csv")
+    m  = pd.read_csv("data/processed/credit_dependency_master.csv")
+    dg = pd.read_csv("data/raw/digital_credit.csv")
     return m, dg
 
 master, digital = load()

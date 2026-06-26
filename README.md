@@ -101,5 +101,4 @@ streamlit run notebooks/02_dashboard.py
 
 ## Live Dashboard
 
-[Streamlit Dashboard →](your-streamlit-link-here)
-[Power BI Dashboard →](your-powerbi-link-here)
+[Streamlit Dashboard →](https://rbi-credit-cecw9jqvbubngb6hwjk4nh.streamlit.app/)
